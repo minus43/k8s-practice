@@ -4,7 +4,7 @@
 
 ### 사전 준비 작업
 
-- 마스터 노드 1대(cpu 4core, memory 2GB, 256GB 디스크)
+- 마스터 노드 1대(cpu 4core, memory 2GB, 25GB 디스크)
 - 워커 노드 2대(cpu 2core, memory 2GB, 50GB 디스크)
 - 네트워크 설정
 
