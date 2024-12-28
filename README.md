@@ -6,7 +6,7 @@
 
 ### 하드웨어
 
-- 마스터 노드 1대: CPU 4core, Memory 2GB, 256GB 디스크
+- 마스터 노드 1대: CPU 4core, Memory 2GB, 25GB 디스크
 - 워커 노드 2대: CPU 2core, Memory 2GB, 50GB 디스크
 
 ### 소프트웨어
